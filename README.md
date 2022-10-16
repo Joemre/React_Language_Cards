@@ -7,9 +7,9 @@
 <hr>
 
 ### Built With
--REACT
--JAVASCRIPT
--HTML5
--CSS3
+### REACT
+### JAVASCRIPT
+### HTML5
+### CSS3
 
 
